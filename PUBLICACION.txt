@@ -1,0 +1,16 @@
+# PUBLICACIÓN — PASOS RÁPIDOS
+
+Archivos que deben quedar en la raíz del repositorio:
+- app.py
+- requirements.txt
+- README.md
+- .streamlit/config.toml
+
+No es necesario subir datos reales del ensayo al repositorio.
+
+En Streamlit Community Cloud:
+- Repository: el repositorio que creaste
+- Branch: main
+- Main file path: app.py
+
+Después de Deploy, abre la URL .streamlit.app y prueba la app con una copia del Excel.
